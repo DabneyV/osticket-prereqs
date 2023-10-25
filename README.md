@@ -41,10 +41,13 @@ First, I created a resource group through Azure with a Windows 10 VM that has 2-
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/DabneyV/osticket-prereqs/assets/148362429/ca83c52c-1158-493e-8c5b-5ad3bb77421e)
+
+
 </p>
 <p>
-Now I will download all files necessary for installation. (PHP Manager, MySQL) And configure IIS, register PHP, and then download osTicket.
+Now I will download all files necessary for installation. (PHP Manager, MySQL) And configure IIS, register PHP, and then download osTicket. The reult is a successful intallation.
 </p>
 <br />
 
