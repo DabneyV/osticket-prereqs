@@ -29,7 +29,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/DabneyV/osticket-prereqs/assets/148362429/d159f28a-5cea-4e53-b21f-edb5c2756d69)
+
+
 </p>
 <p>
 First, I created a resource group through Azure with a Windows 10 VM that has 2-4 virtual CPUs and allowing it to create a virtual network.
