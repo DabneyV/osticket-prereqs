@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This outline demonstrates a successful execution of the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -52,9 +52,12 @@ Now I will download all files necessary for installation. (PHP Manager, MySQL) A
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+![image](https://github.com/DabneyV/osticket-prereqs/assets/148362429/f38408c4-ca66-4da5-9c97-a1b77eded334)
+
+
 <p>
-Download osTicket, making necessary configurations. (username, password, permissions)
+After download of osTicket,I was successful at making necessary configurations. (username, password, permissions)
 </p>
 <br />
