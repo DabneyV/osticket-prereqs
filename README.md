@@ -47,7 +47,7 @@ First, I created a resource group through Azure with a Windows 10 VM that has 2-
 
 </p>
 <p>
-Now I will download all files necessary for installation. (PHP Manager, MySQL) And configure IIS, register PHP, and then download osTicket. The reult is a successful intallation.
+Here I have downloaded all files necessary for installation. (PHP Manager, MySQL) And configure IIS, register PHP, and then download osTicket. The reult is a successful intallation.
 </p>
 <br />
 
@@ -58,6 +58,6 @@ Now I will download all files necessary for installation. (PHP Manager, MySQL) A
 
 
 <p>
-After download of osTicket,I was successful at making necessary configurations. (username, password, permissions)
+After download of osTicket, pictured are users and departments after successful necessary configurations. (username, password, permissions)
 </p>
 <br />
